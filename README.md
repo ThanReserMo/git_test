@@ -1,0 +1,1 @@
+This is Than's first git project!
